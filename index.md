@@ -7,6 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Irvine Coding Club
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A club created by students who loves coding and hacking. The club offers free webinars, programming classes and programming competitions on a regular base.
+Meet us at our discord server! 
