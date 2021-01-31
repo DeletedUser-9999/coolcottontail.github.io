@@ -8,5 +8,3 @@ promoted: true
 weight: 2
 layout: team
 ---
-
-A hacking ...
