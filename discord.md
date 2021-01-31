@@ -1,8 +1,9 @@
 ---
-title: 'Discord'
-date: 2021-01-30T17:01:34+07:00
-layout: page
-bodyClass: page-discord
+title: Discord
+layout: discord
+description: Status of our discord server.
 ---
 
-# Discord Status
+# Discord
+
+Status of our discord server
