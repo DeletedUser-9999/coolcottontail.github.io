@@ -1,62 +1,38 @@
-# Site settings
-title: Irvine Coding Club
-email: melodyyueyu@gmail.com
-url: https://coolcottontail.github.io
-description: "Irvine Coding Club"
-skills: "Fun and Coding"
-meta_author: Melody Yu
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: irvinecodingclub
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Irvine Coding Club
-  location: Sunshine California
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/irvinecodingclub
-  - title: facebook
-    url:
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: Orange County, California
-
-# Credits content
-credits: 'Bring to you by <a href="http://irvinecoding.club">Irvine Coding Club</a>.'
-
-# Build settings
-markdown: kramdown
+baseurl: ''
+exclude: ['README.md']
 permalink: pretty
+title: 'Jekyll Serif'
 
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+google_analytics_id: ""
+homepage:
+  show_call_box: true
+logo:
+  mobile: "images/logo/logo-mobile.svg"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "36px"
+footer:
+  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+
+seo:
+  meta_og_title: "Jekyll Serif Theme"
+  meta_og_type: "website"
+  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "@zerostaticio"
+  meta_twitter_creator: "@zerostaticio"
+
+collections:
+  services:
+    output: true
+  team:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
