@@ -1,12 +1,12 @@
 ---
-title: Irvine Coding Club
+title: Jekyll Serif Theme
 layout: home
-description: A club to learn how to code.
+description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Irvine Coding Club.
+# Serif - A Jekyll Business Theme.
 
-A club that is run by students who love programming from Orange County. 
+Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
