@@ -5,10 +5,5 @@ layout: page
 bodyClass: page-about
 ---
 
-#Irvine Coding club
-
-
-## Ne verba patulosque numen vix libet
-
 Irivine Coding Club is created by a group of students who enjoy coding and
 hacking.
