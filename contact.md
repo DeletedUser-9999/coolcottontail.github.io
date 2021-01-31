@@ -4,4 +4,4 @@ layout: contact
 bodyClass: page-contact
 ---
 
-# Join our discord server is the best way to contact us!
+Email us at agamcheezit@gmail.com or melodyyueyu@gmail.com.
