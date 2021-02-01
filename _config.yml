@@ -1,38 +1,37 @@
-baseurl: ''
-exclude: ['README.md']
-permalink: pretty
-title: 'Irvine Coding Club'
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
 
-google_analytics_id: ""
-homepage:
-  show_call_box: true
-logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
-footer:
-  copyright_text: '&copy; <a class="zerostatic" href="https://irvinecoding.club">irvinecoding.club</a>'
+# Site settings
+# are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-seo:
-  meta_og_title: Irvine Coding Club"
-  meta_og_type: "website"
-  meta_og_url: "https://irvinecoding.club"
-  meta_og_image: ""
-  meta_og_description: "Irvine Coding Club is an non profit orgnization for students who enjoy programming in Orange County."
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@irvinecodingclub"
-  meta_twitter_creator: "@irvinecodingclub"
+theme: jekyll-agency
+
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+
+title      : Your Awesome Website
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+analytics:
+  google: #Google Analytics tracking code here
 
 collections:
-  services:
-    output: true
-  team:
-    output: true
+  portfolio:
 
-sass:
-  indentWidth: 4
-  style: compact # possible values: nested expanded compact compressed
-  precision: 10
+markdown: kramdown
 
-plugins:
-  - jekyll-environment-variables
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
