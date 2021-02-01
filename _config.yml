@@ -11,13 +11,13 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Irvine Coding Club <a class="zerostatic" href="https://irvinecoding.club">irvinecoding.club</a>'
+  copyright_text: '&copy; <a class="zerostatic" href="https://irvinecoding.club">irvinecoding.club</a>'
 
 seo:
   meta_og_title: Irvine Coding Club"
   meta_og_type: "website"
   meta_og_url: "https://irvinecoding.club"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_image: ""
   meta_og_description: "Irvine Coding Club is an non profit orgnization for students who enjoy programming in Orange County."
   meta_twitter_card: "summary"
   meta_twitter_site: "@irvinecodingclub"
