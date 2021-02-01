@@ -1,14 +1,14 @@
 nav:
-  - title: "Services"
+  - title: "NEWS"
     section: services
 
-  - title: "Portfolio"
+  - title: "CLASSES"
     section: portfolio
-    
+
   - title: "About"
     section: timeline
 
-  - title: "Team"
+  - title: "DISCORD"
     section: team
 
   - title: "Contact"
