@@ -9,19 +9,19 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Webinar"
+        desc: "Free webinars from experts in different aspects of information technoledgy."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Programming Classes"
+        desc: "Classes for learning Scratch, Python, Javascript, Java and more..."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Coding Competition"
+        desc: "We regularly offer coding competition. "
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: ""
+    text: "News and classes"
     section: portfolio
     closebutton: "Close Project"
 
@@ -34,25 +34,20 @@ timeline:
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "Jan 2021"
+        desc: "Irvine coding club was created by a group of orange county students!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "We have our first webinar"
+        year: "Jan 2021"
+        desc: "We have our first webinar : what's the life of being a programmer? More than 20 students joined the first seminar."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "More to come ..."
+        year: "2021"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
         # you can enforce the aligment
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -68,7 +63,7 @@ team:
     section: team
     people:
       - name: "Coding Kitty"
-        role: "Cheer Leader"
+        role: "Chief Tasting Officer"
         image: https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif
 
       - name: "Crazy Bob"
