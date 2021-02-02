@@ -1,15 +1,10 @@
 ---
 layout: page
-title: Page Not Found
-background: grey
+title: Join our Discord server
 ---
-<section class="page-section">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-heading text-uppercase">404 - Page Not Found</h2>
-        <h3 class="section-subheading text-muted">The requested pagasdfasdfasdfd.</h3>
-      </div>
-    </div>
-  </div>
-</section>
+
+# Join our discord server
+
+<div class="large text-muted">
+<iframe src="https://discord.com/widget?id=800120401107746846&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div>
