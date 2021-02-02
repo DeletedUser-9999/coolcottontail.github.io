@@ -1,7 +1,15 @@
 ---
 layout: page
-title: Join our Discord server
-permalink: /discord
+title: Page Not Found
+background: grey
 ---
-
-# Join our discord server
+<section class="page-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">404 - Page Not Found</h2>
+        <h3 class="section-subheading text-muted">The requested pagasdfasdfasdfd.</h3>
+      </div>
+    </div>
+  </div>
+</section>
