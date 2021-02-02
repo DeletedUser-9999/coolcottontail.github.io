@@ -1,12 +1,12 @@
 ---
 title: Web design
 subtitle: Web design with HTML/javascript
-image: assets/img/java.png
+image: assets/img/python.jpg
 
 caption:
   title:   Web design
   subtitle: Web design with HTML/javascript
-  thumbnail: assets/img/java.png
+  thumbnail: assets/img/python.jpg
 ---
 Web design with HTML/Javascript
 
