@@ -6,7 +6,7 @@ nav:
     section: portfolio
 
   - title: "DISCORD"
-    href: "/discord"
+    url: "/discord"
 
   - title: "Contact"
     section: contact
