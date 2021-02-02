@@ -1,8 +1,8 @@
 header:
     title:
-    text: 
+    text:
     button: JOIN OUR DISCORD
-    buttonlink: "#services"
+    buttonlink: "#contact"
 
 services:
     title: "Services"
