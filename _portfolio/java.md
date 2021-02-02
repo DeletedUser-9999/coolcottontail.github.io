@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Java Class
   subtitle: subtitle
-  thumbnail: assets/img/java.png
+  thumbnail: assets/img/java.jpg
 
 #what displays when the item is clicked:
 title: Java
 subtitle: Learn Java programming language.
-image: assets/img/java.png
+image: assets/img/java.jpg
 ---
 
 Java Programming language
