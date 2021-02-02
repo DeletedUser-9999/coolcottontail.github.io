@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join our Discord server
+background: grey
 ---
 
 # Join our discord server
