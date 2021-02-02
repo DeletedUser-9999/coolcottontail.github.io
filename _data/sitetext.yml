@@ -2,7 +2,7 @@ header:
     title:
     text:
     button: JOIN OUR DISCORD
-    buttonlink: "#contact"
+    buttonlink: "/discord"
 
 services:
     title: "Services"
