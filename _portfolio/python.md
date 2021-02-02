@@ -1,13 +1,13 @@
 ---
 title: Python
 subtitle: Python programming class
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+image: assets/img/python.jpg
 alt: Keep Exploring
 
 caption:
   title:  Python
   subtitle: Python programming class
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  thumbnail:assets/img/python.jpg
 ---
 
 Python Programming language
