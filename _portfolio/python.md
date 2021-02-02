@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title:  Python
   subtitle: Python programming class
-  thumbnail:assets/img/python.jpg
+  thumbnail: assets/img/python.jpg
 ---
 
 Python Programming language
