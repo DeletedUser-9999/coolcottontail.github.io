@@ -7,15 +7,11 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: Java
 subtitle: Learn Java programming language.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
-
+image: img/java.png  
 ---
-Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+Java Programming language
 
-{:.list-inline}
-- Date:
-- Client:
-- Category:
+
+Schedule: Every Wednesday afternoon 3pm - 4pm.
+Location: Zoom

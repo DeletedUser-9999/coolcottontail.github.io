@@ -1,12 +1,11 @@
 header:
-    title: Welcome to our Studio!
+    title: Welcome to Irvine Coding Club!
     text: Ivine Coding Club
     button: JOIN OUR DISCORD
     buttonlink: "#services"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
     section: services
     list:
       - title: "Webinar"
@@ -20,8 +19,7 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: ""
-    text: "News and classes"
+    title: "Classes"
     section: portfolio
     closebutton: "Close Project"
 
