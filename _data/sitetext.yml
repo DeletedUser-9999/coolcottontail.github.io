@@ -60,18 +60,37 @@ team:
     title: "OUR AMAZING TEAM"
     section: team
     people:
-      - name: "Coding Kitty"
-        role: "Chief Tasting Officer"
+      - name: "Melody Yu"
+        role: "President"
         image: https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif
 
-      - name: "Crazy Bob"
-        role: "Chief Hacking Officer"
+      - name: "Agam Randhawa"
+        role: "President"
         image: https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47xwutivg9rdislciqohen4xyk1nfunne9k2lmgw2b&rid=giphy.gif
 
-      - name: "Picachu"
-        role: "Lead Developer"
+      - name: "TBD"
+        role: "Treasurer"
         image: https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&rid=giphy.gif
 
+      - name: "TBD"
+        role: "Chief Curriculum Editor"
+        image: https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&rid=giphy.gif
+
+      - name: "TBD"
+        role: "Chief Curriculum Editor"
+        image: https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&rid=giphy.gif
+
+      - name: "TBD"
+        role: "Branch Director"
+        image: https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&rid=giphy.gif
+
+      - name: "TBD"
+        role: "Public Relations Chair"
+        image: https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&rid=giphy.gif
+
+      - name: "TBD"
+        role: "Fundraising Chair"
+        image: https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&rid=giphy.gif
 
 footer:
     legal: "Privacy Policy"
