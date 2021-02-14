@@ -56,8 +56,10 @@ feature_row:
 
 
   <figure>
+  <a href="/assets/docs/webinar1.pdf">
   <img src="/assets/images/webinar1.png">
   <figcaption>Do You Want to Be a Future Coder?</figcaption>
+  </a>
   </figure>
 
   	<figure>
