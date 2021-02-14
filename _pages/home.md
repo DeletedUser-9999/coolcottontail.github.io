@@ -39,14 +39,21 @@ feature_row:
 </div>
 
   <div id="columns">
+
   <figure>
     <a href="/classes">
-  <img src="/assets/images/iccmeet.png">
-  <figcaption>Join ICC Weekly Classes</figcaption>
+  <img src="/assets/images/icc_poster.png">
+  <figcaption>Join ICC</figcaption>
   </a>
   </figure>
 
-  <div id="columns">
+  <figure>
+    <a href="/classes">
+  <img src="/assets/images/iccmeet.png">
+  <figcaption>ICC Weekly Classes</figcaption>
+  </a>
+  </figure>
+
   <figure>
       <a href="/about">
   <img src="/assets/images/iccmeet2.png">
@@ -54,7 +61,6 @@ feature_row:
   </a>
   </figure>
 
-  <div id="columns">
   <figure>
       <a href="/python">
   <img src="/assets/images/python_class.jpg">
