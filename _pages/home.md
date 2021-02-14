@@ -54,6 +54,14 @@ feature_row:
   </a>
   </figure>
 
+  <div id="columns">
+  <figure>
+      <a href="/python">
+  <img src="/assets/images/python_class.jpg">
+  <figcaption>Introduction to Python</figcaption>
+  </a>
+  </figure>
+
 
   <figure>
   <a href="/assets/docs/webinar1.pdf">
