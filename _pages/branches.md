@@ -1,7 +1,7 @@
 ---
 title: "Branches"
 layout: splash
-permalink: /branches
+permalink: /branches/
 header:
   overlay_color: "#000"
   overlay_filter: "0"
