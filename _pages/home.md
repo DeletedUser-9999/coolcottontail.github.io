@@ -35,7 +35,7 @@ feature_row:
 ---
 
 <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">Services and Latest News</h2>
+          <h2 class="section-heading">Services and Latest News</h2>
 </div>
 
   <div id="columns">
