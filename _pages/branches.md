@@ -8,47 +8,24 @@ header:
   overlay_image: /assets/images/programming.jpg
 
 feature_row:
-- image_path: assets/images/rancho_logo.png
+- image_path: assets/images/icc1.jpg
   title: "Rancho San Juoaquin"
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
-
-- image_path: /assets/images/uni_logo.png
+- image_path: /assets/images/icc2.jpg
   title: "University High"
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
-
-- image_path: /assets/images/jeffreytrail_logo.png
-  title: "Jeffery Trail"
+- image_path: /assets/images/icc3.jpg
+  title: "Jeffery Trails"
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
-- image_path: /assets/images/turtlerocklogo.png
-  title: "Woodbridge High School"
-  url: "/about/"
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-
-- image_path: /assets/images/turtlerocklogo.png
-  title: "Turtle Rock Elementary"
-  url: "/about/"
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
-
-- image_path: /assets/images/turtlerocklogo.png
-  title: "Northwood High School"
-  url: "/about/"
-  btn_class: "btn--primary"
-  btn_label: "Learn more"
 
 ---
-
-Do you want to create a school coding club?   
-ICC can help with tutorials, club events, and webinars.   
-Can't find your school here? Contact us at [our discord](/discord).
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
