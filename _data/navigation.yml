@@ -7,7 +7,5 @@ main:
     url: /discord/
   - title: "Branches"
     url: /branches/
-  - title: "Team"
+  - title: "About"
     url: /about/
-  - title: "Playground"
-    url: /playground/
