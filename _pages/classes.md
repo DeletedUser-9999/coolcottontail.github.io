@@ -16,17 +16,36 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - image_path: /assets/images/icc2.jpg
-  title: "Javascript"
+  title: "HTML, Javascript and CSS"
   excerpt: "Web design"
-  url: "/webinars/"
+  url: "/classes/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
+- image_path: /assets/images/icc2.jpg
+  title: "Javascript"
+  excerpt: "Web design"
+  url: "/classes/"
+  btn_class: "btn--primary"
+  btn_label: "Learn more"  
 - image_path: /assets/images/icc3.jpg
   title: "Python for Math"
   excerpt: "Solving math problems with Python"
-  url: "/codingcompetition/"
+  url: "/python/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
+- image_path: /assets/images/icc2.jpg
+  title: "Scratch"
+  excerpt: "First language to learn"
+  url: "/classes/"
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+- image_path: /assets/images/icc2.jpg
+  title: "Video Editing"
+  excerpt: "Learn how to edit video"
+  url: "/classes/"
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
+
 
 ---
 
