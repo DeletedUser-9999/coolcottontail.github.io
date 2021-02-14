@@ -13,7 +13,7 @@ header:
 This is a beginner's level programming class. No prior programming knowledge is needed.  
 In this course we will teach basic programming concepts through Python, a popular programming language.
 
-| Insructor   | Date |  Zoom |
+| Instructor   | Date |  Zoom |
 | ----------- | ----------- | ----------- |
 | Melody Yu   | Jan,2021 -  | ID: 890 1539 2821 PWD: 133428|
 
