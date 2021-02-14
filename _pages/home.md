@@ -48,7 +48,7 @@ feature_row:
 
   <div id="columns">
   <figure>
-      <a href="/classes">
+      <a href="/about">
   <img src="/assets/images/iccmeet2.png">
   <figcaption>Meet ICC Team Members</figcaption>
   </a>
