@@ -38,20 +38,20 @@ feature_row:
           <h1 class="section-heading text-uppercase">Services</h1>
 </div>
 
-  {% include feature_row2 id="intro" type="center" %}
-  {% include feature_row2 %}
-
-
   <div id="columns">
   <figure>
+    <a href="/classes">
   <img src="/assets/images/iccmeet.png">
-  <figcaption>Irvine Coding Club Poster</figcaption>
+  <figcaption>Join ICC Weekly Classes</figcaption>
+  </a>
   </figure>
 
   <div id="columns">
   <figure>
+      <a href="/classes">
   <img src="/assets/images/iccmeet2.png">
-  <figcaption>Meet Time for ICC</figcaption>
+  <figcaption>Meet ICC Team Members</figcaption>
+  </a>
   </figure>
 
 
