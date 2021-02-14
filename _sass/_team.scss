@@ -1,0 +1,89 @@
+// Styling for the team section
+.col-sm-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.team-member {
+  margin-bottom: 50px;
+  text-align: center;
+  img {
+    width: 225px;
+    height: 225px;
+    border: 7px solid fade-out(#000, 0.9);
+  }
+  h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+  }
+  p {
+    margin-top: 0;
+  }
+}
+
+.mr-auto, .mx-auto {
+    margin-right: auto!important;
+}
+
+.rounded-circle {
+    border-radius: 50%!important;
+}
+
+
+.page-section {
+    padding: 10px 0;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-md-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.service-heading {
+    margin: 15px 0;
+    text-transform: none;
+}
+
+.text-muted {
+    color: #6c757d!important;
+}
+
+.page-section h2.section-heading {
+    font-size: 60px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+
+.page-section h2.section-heading {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.text-center {
+    text-align: center!important;
+}

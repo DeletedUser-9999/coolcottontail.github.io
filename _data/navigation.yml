@@ -1,15 +1,13 @@
-nav:
-  - title: "NEWS"
-    section: services
-
-  - title: "CLASSES"
-    section: portfolio
-
-  - title: "DISCORD"
-    url: "/discord"
-
-  - title: "Contact"
-    section: contact
-
-  - title: "About"
-    section: timeline
+main:
+  - title: "Events"
+    url: /events/
+  - title: "Classes"
+    url: /classes/
+  - title: "Discord"
+    url: /discord/
+  - title: "Branches"
+    url: /branches/
+  - title: "Team"
+    url: /about/
+  - title: "Playground"
+    url: /playground/
