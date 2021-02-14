@@ -41,7 +41,7 @@ feature_row:
   btn_label: "Learn more"
 - image_path: /assets/images/icc2.jpg
   title: "Video Editing"
-  excerpt: "Learn how to edit video"
+  excerpt: "Learn how to create and edit amazing videos"
   url: "/classes/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
