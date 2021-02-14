@@ -22,8 +22,8 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - image_path: /assets/images/icc2.jpg
-  title: "Javascript"
-  excerpt: "Web design"
+  title: "Java"
+  excerpt: "AP Java"
   url: "/classes/"
   btn_class: "btn--primary"
   btn_label: "Learn more"  
