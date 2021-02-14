@@ -1,7 +1,7 @@
 ---
 title: "Branches"
 layout: splash
-permalink: /branches/
+permalink: /branches
 header:
   overlay_color: "#000"
   overlay_filter: "0"
@@ -13,11 +13,13 @@ feature_row:
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
 - image_path: /assets/images/uni_logo.png
   title: "University High"
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
 - image_path: /assets/images/jeffreytrail_logo.png
   title: "Jeffery Trail"
   url: "/about/"
@@ -34,13 +36,14 @@ feature_row:
   title: "Turtle Rock Elementary"
   url: "/about/"
   btn_class: "btn--primary"
-btn_label: "Learn more"
+  btn_label: "Learn more"
 
 - image_path: /assets/images/turtlerocklogo.png
   title: "Northwood High School"
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
+
 ---
 
 Do you want to create a school coding club?   

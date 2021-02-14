@@ -18,4 +18,4 @@ In this course we will teach basic programming concepts through Python, a popula
 | Melody Yu   | Jan,2021 -  | ID: 890 1539 2821 PWD: 133428|
 
 ### [Introduction to Python Lesson 1: Variables and Print](/assets/docs/python1.pdf)
-{% include video id="IY8u1OsbTPE" provider="youtube" %}
+{% include video id="jiXyzDjmpjI" provider="youtube" %}

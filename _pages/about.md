@@ -17,7 +17,7 @@ header:
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="">
 		<h4>Melody Yu</h4>
-		<p class="text-muted">President</p>
+		<p class="text-muted">President, Chief Tasting Officer</p>
 		<ul class="list-inline social-buttons">
 
 		</ul>
@@ -28,7 +28,7 @@ header:
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="https://media4.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47xwutivg9rdislciqohen4xyk1nfunne9k2lmgw2b&amp;rid=giphy.gif" alt="">
 		<h4>Agam Randhawa</h4>
-		<p class="text-muted">President</p>
+		<p class="text-muted">President, Chief Hacking Officer</p>
 		<ul class="list-inline social-buttons">
 
 		</ul>
@@ -39,7 +39,7 @@ header:
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&amp;rid=giphy.gif" alt="">
 		<h4>TBD</h4>
-		<p class="text-muted">Treasurer</p>
+    	<p class="text-muted">VP, Public Relations Chair</p>
 		<ul class="list-inline social-buttons">
 
 		</ul>
@@ -72,7 +72,7 @@ header:
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="https://media1.giphy.com/media/SEocHdq1aEcU/giphy.gif?cid=ecf05e4771f965613d83a9dfdeccbb457262f97b16c7a2cc&amp;rid=giphy.gif" alt="">
 		<h4>TBD</h4>
-		<p class="text-muted">Public Relations Chair</p>
+				<p class="text-muted">Treasurer</p>
 		<ul class="list-inline social-buttons">
 
 		</ul>
