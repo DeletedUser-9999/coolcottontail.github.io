@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Irvine Coding Club"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "codingkitty"
+name                     : ""
 description              : "Irvine Coding Club"
 url                      : "https://irvinecoding.club"
 baseurl                  : # the subpath of your site, e.g. "/blog"

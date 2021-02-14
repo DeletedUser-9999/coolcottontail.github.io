@@ -10,20 +10,17 @@ header:
 feature_row:
 - image_path: assets/images/icc1.jpg
   title: "Rancho San Juoaquin"
-  excerpt: "Python"
-  url: "/classes/"
+  url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - image_path: /assets/images/icc2.jpg
   title: "University High"
-  excerpt: "Web design"
-  url: "/webinars/"
+  url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
 - image_path: /assets/images/icc3.jpg
   title: "Jeffery Trails"
-  excerpt: "Solving math problems with Python"
-  url: "/codingcompetition/"
+  url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
