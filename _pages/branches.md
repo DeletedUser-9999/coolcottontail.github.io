@@ -25,13 +25,27 @@ feature_row:
   btn_label: "Learn more"
 
 - image_path: /assets/images/turtlerocklogo.png
-  title: "Jeffery Trails"
+  title: "Woodbridge High School"
   url: "/about/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
 
+- image_path: /assets/images/turtlerocklogo.png
+  title: "Turtle Rock Elementary"
+  url: "/about/"
+  btn_class: "btn--primary"
+btn_label: "Learn more"
 
+- image_path: /assets/images/turtlerocklogo.png
+  title: "Northwood High School"
+  url: "/about/"
+  btn_class: "btn--primary"
+  btn_label: "Learn more"
 ---
+
+Do you want to create a school coding club?   
+ICC can help with tutorials, club events, and webinars.   
+Can't find your school here? Contact us at [our discord](/discord).
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
