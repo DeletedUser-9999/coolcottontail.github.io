@@ -21,13 +21,13 @@ feature_row:
   url: "/classes/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
-- image_path: /assets/images/icc2.jpg
+- image_path: /assets/images/apjava.jpg
   title: "Java"
   excerpt: "AP Java"
   url: "/classes/"
   btn_class: "btn--primary"
   btn_label: "Learn more"  
-- image_path: /assets/images/icc3.jpg
+- image_path: /assets/images/icc1.jpg
   title: "Python for Math"
   excerpt: "Solving math problems with Python"
   url: "/python/"
