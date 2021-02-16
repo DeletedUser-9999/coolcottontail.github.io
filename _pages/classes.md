@@ -28,8 +28,8 @@ feature_row:
   btn_class: "btn--primary"
   btn_label: "Learn more"  
 - image_path: /assets/images/icc1.jpg
-  title: "Python for Math"
-  excerpt: "Solving math problems with Python"
+  title: "Python for Minecraft"
+  excerpt: "Learn python through Minecraft"
   url: "/python/"
   btn_class: "btn--primary"
   btn_label: "Learn more"
