@@ -77,7 +77,9 @@ feature_row:
   </figure>
 
   	<figure>
-  	<img src="https://irvinecoding.club/webinars/">
+      <a href="https://irvinecoding.club/webinars/">
+  	<img src="/assets/images/webnar2.png">
   	<figcaption>Web Design Seminar</figcaption>
   	</figure>
+    </a>
   </div>
