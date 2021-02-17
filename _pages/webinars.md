@@ -15,7 +15,7 @@ Please check our home page irvinecoding.club for the latest webinar information!
 | --------------------------------| ------- | ----------- |
 | Do you want to be a future coder| Mr. Yu  | Jan, 27 2021|
 
-| Web Design Seminar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Mr. Wen | Feb, 15,2021|
+| Web Design Seminar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Mr. Wen | Feb, 15,2021|
 
 
 
