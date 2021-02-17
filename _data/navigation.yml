@@ -1,7 +1,7 @@
 main:
   - title: "Classes"
     url: /classes/
-- title: "Webinars"
+  - title: "Webinars"
     url: /webinars/
   - title: "Discord"
     url: /discord/
