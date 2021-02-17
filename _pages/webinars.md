@@ -5,13 +5,15 @@ permalink: /webinars/
 author_profile: true
 ---
 
+# Webinar  
+
 Irvine Coding Club invites people from the IT industry to talk about various topics in computer science.
 
 | Topic    | Guest | Date |  Zoom |
 | ----------- | ----------- | ----------- |
 | Do you want to be a future coder| Mr. Yu | Jan, 27 2021 | ID: 890 1539 2821 PWD: 133428|
 
-| Web Design Seminar   | Mr. Wen |  Feb, 15,2021  | ID: 890 1539 2821 PWD: 133428|
+| Web Design Seminar              | Mr. Wen |  Feb, 15,2021  | ID: 890 1539 2821 PWD: 133428|
 
 
 

@@ -70,14 +70,14 @@ feature_row:
 
 
   <figure>
-  <a href="/assets/docs/webinar1.pdf">
+  <a href="https://irvinecoding.club/webinars/">
   <img src="/assets/images/webinar1.png">
   <figcaption>Do You Want to Be a Future Coder?</figcaption>
   </a>
   </figure>
 
   	<figure>
-  	<img src="/assets/images/webnar2.png">
+  	<img src="https://irvinecoding.club/webinars/">
   	<figcaption>Web Design Seminar</figcaption>
   	</figure>
   </div>
