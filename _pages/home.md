@@ -80,6 +80,7 @@ feature_row:
       <a href="https://irvinecoding.club/webinars/">
   	<img src="/assets/images/webnar2.png">
   	<figcaption>Web Design Seminar</figcaption>
+        </a>
   	</figure>
-    </a>
+
   </div>
