@@ -41,7 +41,7 @@ feature_row:
   <div id="columns">
 
   <figure>
-    <a href="/assets/images/icc_poster.png">
+    <a href="/welcome">
   <img src="/assets/images/icc_poster.png">
   <figcaption>Join ICC</figcaption>
   </a>
