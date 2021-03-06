@@ -68,6 +68,12 @@ feature_row:
   </a>
   </figure>
 
+  <figure>
+      <a href="/cyberpatriot">
+  <img src="/assets/images/cyberpatriot.jpg">
+  <figcaption>Cyber Patriot Competition</figcaption>
+  </a>
+  </figure>
 
   <figure>
   <a href="https://irvinecoding.club/webinars/">
