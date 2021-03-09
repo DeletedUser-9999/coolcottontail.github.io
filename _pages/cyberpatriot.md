@@ -16,3 +16,7 @@ In this course we will teach problems in Cyberpatriot competition.
 
 ### Cyberpatriot Lesson 1
 {% include video id="qCgJxDeTBWc" provider="youtube" %}
+
+
+### Cyberpatriot Lesson 2
+{% include video id="G7dcdFwKOVo" provider="youtube" %}
