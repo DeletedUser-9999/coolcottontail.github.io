@@ -2,7 +2,7 @@
 layout: post
 title:  "Congress Debate"
 image: assets/images/icc2.jpg
-excerpt: " Learn about the basics of public speaking and debate, and delve into Congress debate."
+excerpt: "The basics of public speaking and debate, and delve into Congress debate."
 course: true
 ---
 

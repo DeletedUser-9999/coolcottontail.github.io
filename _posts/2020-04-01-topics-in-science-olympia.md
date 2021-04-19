@@ -4,7 +4,7 @@ title:  "Topics in Science Olympiad"
 image: assets/images/icc1.jpg
 course: true
 comments: false
-excerpt: "A Science Olympiad prep course: learn about public health and the science of epidemiology."
+excerpt: "Learn about public health and the science of epidemiology."
 ---
 
 A Science Olympiad prep course, but people who aren’t interested in doing Science Olympiad are welcome as well; learn about public health and the science of epidemiology.

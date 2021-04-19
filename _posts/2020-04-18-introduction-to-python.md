@@ -5,7 +5,7 @@ image: assets/images/icc1.jpg
 featured: true
 course: true
 comments: false
-excerpt: "A begginer's Python class, no  prior programming knowledge is needed."
+excerpt: "No  prior programming knowledge is needed."
 ---
 
 This is a beginner's level programming class. No prior programming knowledge is needed.  
