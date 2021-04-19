@@ -15,13 +15,14 @@ Earn community service hours by volunteering with us in our classes and events!
 Come and help ICC in varies events, public relations etc.
 
 ### APPLY FOR A TEACHER  
-ICC teachers lead the online classes now and will also at give courses at our various branches. Teachers also actively participate in creating class materials.  
+ICC teachers lead the online classes now and will give courses at our various branches.   
+Teachers also actively participate in creating class materials.  
 Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
 
 ### REQUIREMENTS  
 To become a teacher, you must meet the following requirements:
 * Current upcoming student from 7th to 12th grade
-* Possess a passion for STEM arts and helping others!
+* Possess a passion for teaching K-12 students and helping others!
 
 ## HOW DO I APPLY?  
 Contact ICC through our [discord](/discord) or email us at irvinecodingclub@gmail.com.
