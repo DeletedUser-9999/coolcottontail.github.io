@@ -2,7 +2,6 @@
 layout: post
 title:  "Introduction to Python"
 image: assets/images/icc1.jpg
-featured: true
 course: true
 comments: false
 excerpt: "No  prior programming knowledge is needed."
