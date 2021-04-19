@@ -2,7 +2,7 @@
 layout: post
 title:  "Cyber Patriot Competition"
 image: assets/images/icc2.jpg
-excerpt: "In this course we will teach problems in Cyberpatriot competition."
+excerpt: "Teach problems in CyberPatriot competition."
 course: true
 ---
 In this course we will teach problems in Cyberpatriot competition.
