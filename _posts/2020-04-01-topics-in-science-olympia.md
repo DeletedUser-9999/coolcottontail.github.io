@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Topics in Science Olympia"
+title:  "Topics in Science Olympiad"
 image: assets/images/icc1.jpg
 course: true
 comments: false
@@ -15,6 +15,6 @@ A Science Olympiad prep course, but people who aren’t interested in doing Scie
 
 <br/>
 
-**Prerequisites**: Basic memorization and math skills, although not much. People with an advanced disease skill set are not recommended, as this is a beginner course.
-**Required tools**: google docs or other note taking devices
-**Final project**: take a Disease Detectives test written by the lecturers
+**Prerequisites**: Basic memorization and math skills, although not much. People with an advanced disease skill set are not recommended, as this is a beginner course.  
+**Required tools**: google docs or other note taking devices  
+**Final project**: take a Disease Detectives test written by the lecturers  

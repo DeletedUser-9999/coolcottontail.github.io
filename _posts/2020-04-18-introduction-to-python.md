@@ -15,7 +15,7 @@ In this course we will teach basic programming concepts through Python, a popula
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
 | :---        |    :----   |          :--- |  :--- |
-| Allison Hung, Melody Yu   | Jan,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Allison Hung, Sarah Chen, Melody Yu   | Jan,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 <br/>
 
