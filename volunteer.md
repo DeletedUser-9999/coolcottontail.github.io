@@ -16,7 +16,7 @@ Come and help ICC in varies events, public relations etc.
 
 ### APPLY FOR A TEACHER  
 ICC teachers lead the online classes now and will also at give courses at our various branches. Teachers also actively participate in creating class materials.  
-Teachers will be appointed by the Coding Power Executive Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
+Teachers will be appointed by the ICC Board and Advisors. Applications will be open in July 2021. Exact information will be released soon.
 
 ### REQUIREMENTS  
 To become a teacher, you must meet the following requirements:
