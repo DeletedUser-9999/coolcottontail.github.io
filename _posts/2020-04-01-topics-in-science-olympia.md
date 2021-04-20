@@ -2,7 +2,6 @@
 layout: post
 title:  "Topics in Science Olympiad"
 image: assets/images/icc1.jpg
-course: true
 comments: false
 excerpt: "Learn about public health and the science of epidemiology."
 ---

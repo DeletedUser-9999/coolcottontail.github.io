@@ -1,23 +1,18 @@
 ---
 layout: post
-title:  "Introduction to Python"
+title:  "Python and Math Problems"
 image: assets/images/icc1.jpg
+image2: assets/images/python_class.jpg
 course: true
 comments: false
-excerpt: "No  prior programming knowledge is needed."
+excerpt: "A intermediate level Python course focusing on solving Project Euler problems."
 ---
 
-This is a beginner's level programming class. No prior programming knowledge is needed.  
-
-In this course we will teach basic programming concepts through Python, a popular programming language.  
+This is a intermediate level Python class. Students should have a prior knowledge of basic Python, understanding Python topics like loops, variables, functions, sets, and dictionaries. We will go through questions in [Project Euler](https://projecteuler.net/).
 
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
 | :---        |    :----   |          :--- |  :--- |
-| Allison Hung, Sarah Chen, Melody Yu   | Jan,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Melody Yu, Annette Lee   | Summer,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 <br/>
-
-
-### [Lesson 1: Variables and Print](/assets/docs/python1.pdf)
-{% include video id="jiXyzDjmpjI" provider="youtube" %}

@@ -2,6 +2,7 @@
 layout: post
 title:  "Cyber Patriot Competition"
 image: assets/images/icc2.jpg
+image2: assets/images/cyberpatriot.jpg
 excerpt: "Teach problems in CyberPatriot competition."
 course: true
 ---
@@ -13,7 +14,6 @@ In this course we will teach problems in Cyberpatriot competition.
 | Agam Randhawa   | Mar,2021   | &nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 <br/>
-
 
 
 ### Cyberpatriot Lesson 1
