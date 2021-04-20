@@ -17,4 +17,4 @@ Other software development competitions are [congressional app challenge](https:
 
 A list of coding competition is maintained [here](https://clist.by/).
 
-Irvine Coding Club helps organize students form teams to attend team competitions and helps students prepare for individual competitions. If you are interested in these coding competitions (especially for ACSL 2021 season), please contact us at [our discord](/discord) or send email to irvinecodingclub@gmail.com. 
+Irvine Coding Club helps organize students form teams to attend team competitions and helps students prepare for individual competitions. If you are interested in these coding competitions (especially for ACSL 2021-2022 season), please fill [this survey form](https://forms.gle/G7gAhVgqa3RVUQZ98)  if you are interested in attending ACSL competition 2021-2022  season. 

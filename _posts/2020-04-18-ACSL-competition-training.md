@@ -41,6 +41,6 @@ Please fill [this survey form](https://forms.gle/G7gAhVgqa3RVUQZ98)  if you are 
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
 | :---        |    :----   |          :--- |  :--- |
-| Melody Yu | TBD,2021   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
+| Melody Yu | TBD   |&nbsp;&nbsp; 890 1539 2821 &nbsp; &nbsp; |&nbsp; 133428|
 
 <br/>
