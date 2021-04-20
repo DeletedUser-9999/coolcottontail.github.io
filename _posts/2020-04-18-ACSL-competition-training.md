@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "American Computer Science League Competition"
+title:  "ACSL Competition"
 image: assets/images/icc1.jpg
-image2: assets/images/python_class.jpg
+image2: assets/images/EmbeddedImage.png
 permalink: /acsl
 featured: true
 comments: false
@@ -34,11 +34,9 @@ An unlimited number of students from a school may compete in a division. At regi
 * **ELEMENTARY DIVISION** : Open to students in grades 3 - 6.
 * **CLASSROOM DIVISION** : Open to students in all grades. Ideally suited for students taking AP Computer Science Principles, and other computer science classes without a major programming component.
 
-## ICC Becoming ACSL Advisor
+## ICC training for ACSL competition
 ICC helps Orange County students compete in the coming ACSL 2021 - 2022 season.
-
-Please fill [this survey](https://forms.gle/G7gAhVgqa3RVUQZ98) form if you are interested in attending ACSL competition 2021 - 2022 season.
-
+Please fill [this survey form](https://forms.gle/G7gAhVgqa3RVUQZ98)  if you are interested in attending ACSL competition 2021 - 2022 season.
 
 
 | Instructor  | &nbsp;&nbsp;&nbsp;Date&nbsp; | &nbsp;&nbsp; &nbsp;&nbsp;Zoom ID &nbsp; | &nbsp;PASSWORDD  |
