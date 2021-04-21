@@ -2,6 +2,7 @@
 layout: post
 title:  "Coding Music"
 image: assets/images/icc1.jpg
+image2: assets/images/sonic_pi.png
 course: true
 comments: false
 excerpt: "Coding with a language that leads to music coming out."

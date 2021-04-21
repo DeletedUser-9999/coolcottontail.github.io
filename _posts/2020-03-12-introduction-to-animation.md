@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Animation"
-image: assets/images/icc3.jpg
+image: assets/images/animation.jpeg
 excerpt: "A beginner course to introduce people to animation, how to animate, and its history"
 course: true
 ---
