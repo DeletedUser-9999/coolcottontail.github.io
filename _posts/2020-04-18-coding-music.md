@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coding Music"
-image: assets/images/icc1.jpg
+image: assets/images/music.png
 image2: assets/images/sonic_pi.png
 course: true
 comments: false
